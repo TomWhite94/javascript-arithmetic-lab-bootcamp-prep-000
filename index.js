@@ -1,4 +1,4 @@
-var a, b
-function test1() {
-  add(a + b)
+function add() {
+  add(a, b)
 }
+
