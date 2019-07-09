@@ -8,4 +8,3 @@ beforeEach(function() {
 function add() {
   add(a, b)
 }
-
