@@ -1,1 +1,1 @@
-Function aplusb(a+b)
+Function add(a, b);
