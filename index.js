@@ -1,9 +1,5 @@
-var a, b
-
-beforeEach(function() {
-  a = 5
-  b = 5
-})
+var a = 5
+var b = 10
 
 function add() {
   add(a, b)
