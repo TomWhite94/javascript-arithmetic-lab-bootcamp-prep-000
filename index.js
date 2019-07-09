@@ -1,1 +1,1 @@
-Function aplusb('a'+'b');
+Function aplusb(a+b)
